@@ -42,7 +42,7 @@ return {
     patterns = {
         '^[/!#](lock) fwd$',
         '^[/!#](unlock) fwd$',
-		'^[/!#]frwd (status)$',
+		'^[/!#]fwd (status)$',
     },
     run = run,
     pre_process = pre_process
