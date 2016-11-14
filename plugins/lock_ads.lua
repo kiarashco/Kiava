@@ -29,6 +29,7 @@ return {patterns = {
 "telegram.me/(.*)",
 "TELEGRAM.ME/(.*)",
 "Telegram.me/(.*)",
+"https://telegram.me/joinchat/(.*)",
 "(.*)@",
 "(.*) telegram.me/(.*)",
 "(.*) https://(.*)",
